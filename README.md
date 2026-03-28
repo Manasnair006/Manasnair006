@@ -18,7 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,python,js,ts,cpp,c)](https://skills.thijs.gg)
 
 ## 🤝 Let's get Connected
-div align="left">
+<div align="left">
   <a href="www.linkedin.com/in/manas-nair-abc" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
