@@ -3,11 +3,11 @@
 ## About Me 👤
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFFFFF00&width=435&lines=Tech-Xplorer+%7C+Developer+%7C+Mentor)](https://git.io/typing-svg)
 
-🔭 I’m currently working on open source projects
+🔭 I'm currently working on open source projects
 
-👯 I’m looking to collaborate on AITR's open source project
+👯 I'm looking to collaborate on AITR's open source project
 
-🌱 I’m currently learning Angular
+🌱 I'm currently learning Angular
 
 💬 Ask me about Tech and Open Source
 
@@ -18,7 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,python,js,ts,cpp,c)](https://skills.thijs.gg)
 
 ## 🤝 Let's get Connected
-<div align="left">
+div align="left">
   <a href="www.linkedin.com/in/manas-nair-abc" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -35,4 +35,4 @@
 
 ## 📊 GitHub Stats
 
-!Manas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Manasnair006&bg_color=1c1c1c&color=e6e6e6&line=e6e6e6&point=c2c2c2&area=true&area_color=c2c2c2&hide_border=true)
+![Manas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Manasnair006&bg_color=1c1c1c&color=e6e6e6&line=e6e6e6&point=c2c2c2&area=true&area_color=c2c2c2&hide_border=true)
